@@ -50,11 +50,12 @@
 
 ### 📎 Featured Projects
 
-- 🎯 [**InstantCode**](https://github.com/mkbariya/instantcode) — Full-stack code editor with auth & live coding  
-- 🐟 [**Fish Mart**](http://fishmart.infinityfreeapp.com/) — Fishermen-to-buyer marketplace  
-- 🎬 [**Flixx Movie App**](https://github.com/mkbariya/flixx-movie) — Real-time movie browser using TMDB API  
-- 📊 [**TechNews**](https://github.com/mkbariya/technews) — Tech news aggregator  
-- 🍽️ [Restaurant Menu Listing](https://github.com/mkbariya/restaurant-menu)
+- 🛠️ [**Video Calling App**](https://github.com/mkbariya/video-calling-app) — Peer-to-peer video calling using WebRTC, Socket.IO, and React  
+- 🎯 [**InstantCode**](https://github.com/mkbariya/instantcode) — Full-stack code editor with authentication and code execution  
+- 🐟 [**Fish Mart**](https://github.com/mkbariya/fish-mart) — Fishermen-to-buyer marketplace built with PHP and MySQL  
+- 🎬 [**Flixx Movie App**](https://github.com/mkbariya/flixx-movie) — Real-time movie search using TMDB API  
+- 📊 [**TechNews**](https://github.com/mkbariya/technews) — News app displaying the latest tech headlines  
+- 🍽️ [**Restaurant Menu Listing**](https://github.com/mkbariya/restaurant-menu) — Static menu listing page using HTML, CSS, and JavaScript
 
 ---
 

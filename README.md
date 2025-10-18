@@ -12,7 +12,7 @@
 
 🎯 I'm a **full-stack web developer** focused on creating interactive, responsive, and modern web applications.  
 💬 Ask me about: **React, Node.js, PHP, MySQL, Full-stack Dev**  
-📬 Reach out: [`mayank.bariya@example.com`](mailto:mayank.bariya@example.com)  
+📬 Reach out: [`mayankbariya007@example.com`](mailto:mayankbariya007@example.com)  
 ✨ Fun Fact: I love building real-time apps like **chat platforms**, **live score trackers**, and **collaborative editors**.
 
 ---
